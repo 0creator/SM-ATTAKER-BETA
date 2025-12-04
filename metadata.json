@@ -1,0 +1,5 @@
+{
+  "name": "sm_attaker_beta Mission Control",
+  "description": "Mission control dashboard for the sm_attaker_beta AI trading system. Features real-time PnL monitoring, signal visualization, and a RAG-powered AI Copilot for strategy analysis.",
+  "requestFramePermissions": []
+}
